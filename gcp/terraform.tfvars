@@ -12,10 +12,10 @@ gcp_project = "dauntless-nova-402516"
 cert_manager_version = "1.11.0"
 
 # GCP region used for all resources.
-gcp_region = "us-east2"
+gcp_region = "us-east4"
 
 # GCP zone used for all resources.
-gcp_zone = "us-east2-a"
+gcp_zone = "us-east4-a"
 
 # Machine type used for all compute instances
 machine_type = "n1-standard-2"
